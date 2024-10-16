@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+#score {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+#game-over {
+  font-size: 1.5em;
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
